@@ -53,4 +53,3 @@ So, you will need to replace INT_max values with 0 manually while generating tes
 
 Maintainers:
 Akshay Barpute
-Abhinav Reddy
