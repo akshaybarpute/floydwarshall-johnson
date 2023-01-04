@@ -50,6 +50,3 @@ But, floyd-warshall treats INT_MAX as no edge & graph generation utility is made
 
 Johnson's algorithm is added later. It considers 0 as no edge instead of INT_MAX.
 So, you will need to replace INT_max values with 0 manually while generating testcases for Johnson's.
-
-Maintainers:
-Akshay Barpute
